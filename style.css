@@ -1,0 +1,29 @@
+img {
+	width: 279px;
+	height: 260px;
+}
+
+body {
+	background: #47e1f5;
+	text-align: center;
+}
+
+h1 {
+	text-align: center;
+	color: #8a0f17;
+}
+
+div {
+	display: inline-block;
+	border: solid black 3px;
+	text-align: center;
+	background: #e7fc0095 ;
+	padding: 10px;
+}
+a {
+	color: #6c086e;
+	text-decoration: none;
+	background: #00fc6595 ;
+	border: solid black 2px;
+	padding: 5px;
+}
